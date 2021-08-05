@@ -1,0 +1,4 @@
+[sr_gdoc url="https://docs.google.com/document/d/e/2PACX-1vQnemf8Ei0pvZ5051oJishCnjT3n4IPNRm1ElTuSc4GX9qJQrUl6puC3tYdTtTp0Pe5usmQcpjsm0Qp/pub"]
+[sc name="JoinRpgLoc" loc="13306"]
+[sc name="VK"]
+[child_pages cols="2" link_titles="true" hide_more="true" hide_excerpt="true"]

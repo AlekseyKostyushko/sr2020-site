@@ -1,0 +1,40 @@
+Theme:
+	Ocean WP
+Plugins (27+3):
+	Maintainance (5):
+		All In One WP Security
+		Broken Link Checker
+		UpdraftPlus - Backup/Restore
+!		WP File Manager						usually inactive
+		WP Rollback
+	DB Tools (2):
+		WP-DBManager
+		WP-Sweep
+	Optimization (2):
+		Autoptimize
+		Webcraftic Clearfy – WordPress optimization plugin
+	Snippets (2):
+		Code Snippets
+		Shortcoder
+	Taxonomy&Grouping (8):
+		404page - your smart 404 error page
+		Admin Collapse Subpages
+		CC Child Pages
+		Disable Blog
+		Disable Comments
+		Disable Emojis (GDPR friendly)
+		Duplicate Page
+		Plugin Groups
+	Visual elements (8):
+!		CM Tooltip Glossary					nonpro deactivated
+!		CM Tooltip Glossary Pro					pro version
+		PDF Poster
+		Post Types Order
+		Responsive Image Maps
+		Shortcodes Ultimate
+		Ultimate Addons for Gutenberg
+		YaMaps for Wordpress
+	Others:
+		HTTP Headers
+		Ocean Extra
+		Redirection
